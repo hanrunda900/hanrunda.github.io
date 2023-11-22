@@ -85,6 +85,26 @@ http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvYBpmx3/CQWS.jpg" group-title="卫视",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
+#EXTINF:-1 ,都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 ,文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 ,影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 ,新闻法制
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 ,农业
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 ,哈尔滨新闻综合
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=9edd87e11700653204
+#EXTINF:-1 ,哈尔滨都市
+https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨生活
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨娱乐
+https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqsN069Y/CCTV8K.jpg" group-title="4K",CCTV-8K
