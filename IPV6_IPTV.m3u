@@ -2859,12 +2859,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="咸阳移动",家庭理财
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="咸阳移动",家庭理财
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="咸阳移动",家庭理财
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="咸阳移动",家庭理财
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="黑龙江",都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 group-title="黑龙江",文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 group-title="黑龙江",影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 #EXTINF:-1 group-title="咸阳移动",家庭理财
 http://211.137.115.109:80/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8
 #EXTINF:-1 group-title="咸阳移动",家庭理财
